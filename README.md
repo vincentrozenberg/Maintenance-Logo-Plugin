@@ -7,6 +7,8 @@ A simple WordPress plugin that displays a custom logo on your site during mainte
 - **Custom Logo**: Easily set a custom logo URL via the WordPress admin panel.
 - **Responsive Design**: The logo scales to fit within the viewport while maintaining its aspect ratio.
 - **User-Friendly**: Automatically displays the maintenance logo to non-admin users while allowing admins to access the backend.
+- **Simple On/Off**: Plugin on? Maintance page on. Plugin off? Maintance page off. No need to keep unused plugins on.
+
 
 ## Installation
 
