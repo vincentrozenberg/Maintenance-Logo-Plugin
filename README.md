@@ -1,4 +1,4 @@
-# Maintenance Logo Plugin
+# WP Maintenance Logo Plugin
 
 A simple WordPress plugin that displays a custom logo on your site during maintenance mode. The logo is centred on the screen, and its size automatically adjusts to fit within 50% of the viewport's width.
 
